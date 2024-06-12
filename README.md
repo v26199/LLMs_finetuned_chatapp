@@ -1,5 +1,5 @@
 # LLMs_finetuned_chatapp
-chatapplication using Llama 2, Sentence Transformers, CTransformers, Langchain, and Streamlit.
+ChatApplication using Llama 2, Sentence Transformers, CTransformers, Langchain, and Streamlit.
 
 ## Overview
 This project is a chat application for interacting with custom data using conversational AI. It allows users to upload data in various formats such as CSV, JSON, TXT, or PDF, and then engage in conversation with the uploaded data.
